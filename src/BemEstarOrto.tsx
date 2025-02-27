@@ -7,7 +7,7 @@ function BemEstarOrto() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   
   const handleBuyClick = () => {
-    window.location.href = 'https://www.google.com';
+    window.location.href = 'https://pagamento.odontoprev.site/checkout?product=7fd89edb-f528-11ef-8446-46da4690ad53';
   };
 
   const handleLogoClick = () => {

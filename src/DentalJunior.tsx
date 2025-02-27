@@ -7,7 +7,7 @@ function DentalJunior() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   
   const handleBuyClick = () => {
-    window.location.href = 'https://3doN.checkout.lunacheckout.com/checkout?product=27aa16ef-f45e-11ef-8446-46da4690ad53';
+    window.location.href = 'https://pagamento.odontoprev.site/checkout?product=27aa16ef-f45e-11ef-8446-46da4690ad53';
   };
 
   const handleLogoClick = () => {
